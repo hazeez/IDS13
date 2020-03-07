@@ -18,6 +18,7 @@ The emprical rule states that
 - `99.7%` of the data will be within three standard deviations from the mean
 
 Lets see that in the figure below
+
 ![](https://i.imgur.com/wESqJeE.png)
 
 ## Example Dataset
