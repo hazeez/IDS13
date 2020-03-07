@@ -6,7 +6,7 @@
 
 Let's revisit the normal distribution once - its characteristics and emprical rule
 
-- Normal distribution the distribution of data that is symmetric over the mean.
+- Normal distribution is the distribution of data that is symmetric over the mean.
 - `50%` of the data lie to the left and `50%` of the data lie to the right
 - At the origin, mean = median = mode = 0
 
