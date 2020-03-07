@@ -1,12 +1,17 @@
-# Normal Distribution is a probability distribution
+# Normal Distribution is a probability 
+
+### The topic in question is - Is normal distribution a probability distribution? Yes, it is and this writeup provides justification as to why it is so!
 
 ## Revisiting the Normal distribution
+
+Let's revisit the normal distribution once - its characteristics and emprical rule
 
 - Normal distribution the distribution of data that is symmetric over the mean.
 - `50%` of the data lie to the left and `50%` of the data lie to the right
 - At the origin, mean = median = mode = 0
 
 ## Emprical rule 
+
 The emprical rule states that
 - `68%` of the data will be within one standard deviation of the mean 
 - `95%` of the data will be within two standard deviations from the mean
@@ -71,7 +76,7 @@ Can we say that `99.7%` of the time of the time the random sample taken will fal
 
 This `99.7%` chance is called as the probability of the sample falling within the range -3 sigma to +3 sigma. 
 
-Probability falls under the range of `0` to `1`. i.e `0` for no chance and `1` for 100% chance.
+The range of Probability is from `0` to `1`. i.e `0` for no chance and `1` for 100% chance.
 
 ### One more sample
 
@@ -95,15 +100,15 @@ So the z scores are `-1` and `+1`. To be precise we can say `-1.0` and `+1.0`
 
 Let's bring Z-Tables. 
 
-Z-Tables provides us the area under the curve. Using Z-tables lets find the area under the curve of `-1.0Z`
+Z-Tables provides us the area under the curve / probability. Using Z-tables lets find the area under the curve of `-1.0Z`
 Since `-1` is a negative Z, we see the negative Z score table and see that the probability is `0.15866` (see figure below)
 
-i.e if we take a random sample between `-3` sigma and `+3` sigma, the chance of the random sample falling under the area of the curve is `15.866%`. Thus Z tables gives the probability.
+i.e if we take a random sample between `-3` sigma and `+3` sigma, the chance of the random sample falling under the area of the curve of `-1Z` is `15.866%`. Thus Z tables us gives the probability.
 
 ![](https://i.imgur.com/ee2w6eZ.png)
 
 
-For `+1 Z`, let's refer to the positive Z score table. The area under the curve is `0.84134`. (See fig below). 
+For `+1Z`, let's refer to the positive Z score table. The area under the curve is `0.84134`. (See fig below). 
 
 ![](https://i.imgur.com/e47TUn3.png)
 
@@ -117,7 +122,7 @@ Thus `68.268%` is the probability that a given random sample will fall under the
 
 In this way, we can find out the probability of a random variable falling under the area of the curve of the normal distribution for any Zee values. i.e from `-3` sigma to `-2` sigma. or from `-2` sigma to `+3` sigma etc.
 
-### Conclusion
+## Conclusion
 
 Thus we have emprically concluded that the normal distribution is a probability distribution as it helps to find the probability of a random variable falling within the normal distribution range.
  
