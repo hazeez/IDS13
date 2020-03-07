@@ -1,4 +1,4 @@
-# Normal Distribution is a probability 
+# Normal Distribution is a probability distribution.
 
 ### The topic in question is - Is normal distribution a probability distribution? Yes, it is and this writeup provides justification as to why it is so!
 
