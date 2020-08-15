@@ -1,8 +1,3 @@
-changes done to the dataset:
-	- dropped - salary column and income column (both are assumed fields)
-	- dropped - euribor3m column
-	- changed savings intent factor to a categorical column - high,med,low
-
 Previous accuracy
 
 Accuracy with Logistic Regression: 0.8869573662231718
@@ -16,6 +11,11 @@ Accuracy with Gradient Boost: 0.8984170146644653
 Accuracy with Gradient Boost after Hyper Parameter Tuning: 0.8993881713120326
 Accuracy with XG Boost: 0.8973487423521413
 Accuracy with XG Boost after Hyper Parameter Tuning: 0.8998737496358162
+
+changes done to the dataset:
+	- dropped - salary column and income column (both are assumed fields)
+	- dropped - euribor3m column
+	- changed savings intent factor to a categorical column - high,med,low
 
 Accuracy with Logistic Regression: 0.8948237350684666
 Accuracy with Decision Tree: 0.8562688161600466
